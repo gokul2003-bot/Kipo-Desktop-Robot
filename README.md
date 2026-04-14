@@ -39,7 +39,7 @@ Built using ESP32-C3 Super Mini for low power and small form factor
 Code & Schematics
 
 I uploaded the Code from [The mochi Huykhong](https://themochi.huykhong.com/) website. Also they provided schematic wiring 
-![wiring](wiring.jpeg)
+![wiring](wiring.jpg)
 
 ⚠️ 3D Printing Note
 
